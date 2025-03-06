@@ -1,1 +1,7 @@
-./node-nginx/node/node_modules
+**/node_modules/
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.DS_Store
+.env
